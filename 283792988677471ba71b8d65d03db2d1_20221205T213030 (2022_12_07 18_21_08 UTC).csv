@@ -1,0 +1,109 @@
+date,rate_unit,title,from_currency,to_currency_name,frequency,time_format,rate,to_currency,from_currency_name
+2022-10-31T00:00:00,EUR,US dollar/Euro,USD,Euro,D,P1D,1.008675,EUR,US dollar
+2022-11-01T00:00:00,EUR,US dollar/Euro,USD,Euro,D,P1D,1.005328,EUR,US dollar
+2022-11-02T00:00:00,EUR,US dollar/Euro,USD,Euro,D,P1D,1.009285,EUR,US dollar
+2022-11-03T00:00:00,EUR,US dollar/Euro,USD,Euro,D,P1D,1.025326,EUR,US dollar
+2022-11-04T00:00:00,EUR,US dollar/Euro,USD,Euro,D,P1D,1.012966,EUR,US dollar
+2022-11-07T00:00:00,EUR,US dollar/Euro,USD,Euro,D,P1D,1.0007,EUR,US dollar
+2022-11-08T00:00:00,EUR,US dollar/Euro,USD,Euro,D,P1D,1.0004,EUR,US dollar
+2022-11-09T00:00:00,EUR,US dollar/Euro,USD,Euro,D,P1D,0.996115,EUR,US dollar
+2022-11-10T00:00:00,EUR,US dollar/Euro,USD,Euro,D,P1D,1.004621,EUR,US dollar
+2022-11-11T00:00:00,EUR,US dollar/Euro,USD,Euro,D,P1D,0.97012,EUR,US dollar
+2022-11-14T00:00:00,EUR,US dollar/Euro,USD,Euro,D,P1D,0.969086,EUR,US dollar
+2022-11-15T00:00:00,EUR,US dollar/Euro,USD,Euro,D,P1D,0.961169,EUR,US dollar
+2022-11-16T00:00:00,EUR,US dollar/Euro,USD,Euro,D,P1D,0.96043,EUR,US dollar
+2022-11-17T00:00:00,EUR,US dollar/Euro,USD,Euro,D,P1D,0.969086,EUR,US dollar
+2022-11-18T00:00:00,EUR,US dollar/Euro,USD,Euro,D,P1D,0.964692,EUR,US dollar
+2022-11-21T00:00:00,EUR,US dollar/Euro,USD,Euro,D,P1D,0.975991,EUR,US dollar
+2022-11-22T00:00:00,EUR,US dollar/Euro,USD,Euro,D,P1D,0.973331,EUR,US dollar
+2022-11-23T00:00:00,EUR,US dollar/Euro,USD,Euro,D,P1D,0.968523,EUR,US dollar
+2022-11-24T00:00:00,EUR,US dollar/Euro,USD,Euro,D,P1D,0.960338,EUR,US dollar
+2022-11-25T00:00:00,EUR,US dollar/Euro,USD,Euro,D,P1D,0.963855,EUR,US dollar
+2022-11-28T00:00:00,EUR,US dollar/Euro,USD,Euro,D,P1D,0.955749,EUR,US dollar
+2022-11-29T00:00:00,EUR,US dollar/Euro,USD,Euro,D,P1D,0.964692,EUR,US dollar
+2022-11-30T00:00:00,EUR,US dollar/Euro,USD,Euro,D,P1D,0.963763,EUR,US dollar
+2022-12-01T00:00:00,EUR,US dollar/Euro,USD,Euro,D,P1D,0.956572,EUR,US dollar
+2022-12-02T00:00:00,EUR,US dollar/Euro,USD,Euro,D,P1D,0.948947,EUR,US dollar
+2022-12-05T00:00:00,EUR,US dollar/Euro,USD,Euro,D,P1D,0.944555,EUR,US dollar
+2022-11-05T00:00:00,EUR,US dollar/Euro,USD,Euro,D,P1D,1.012966,EUR,US dollar
+2022-11-06T00:00:00,EUR,US dollar/Euro,USD,Euro,D,P1D,1.012966,EUR,US dollar
+2022-11-12T00:00:00,EUR,US dollar/Euro,USD,Euro,D,P1D,0.97012,EUR,US dollar
+2022-11-13T00:00:00,EUR,US dollar/Euro,USD,Euro,D,P1D,0.97012,EUR,US dollar
+2022-11-19T00:00:00,EUR,US dollar/Euro,USD,Euro,D,P1D,0.964692,EUR,US dollar
+2022-11-20T00:00:00,EUR,US dollar/Euro,USD,Euro,D,P1D,0.964692,EUR,US dollar
+2022-11-26T00:00:00,EUR,US dollar/Euro,USD,Euro,D,P1D,0.963855,EUR,US dollar
+2022-11-27T00:00:00,EUR,US dollar/Euro,USD,Euro,D,P1D,0.963855,EUR,US dollar
+2022-12-03T00:00:00,EUR,US dollar/Euro,USD,Euro,D,P1D,0.948947,EUR,US dollar
+2022-12-04T00:00:00,EUR,US dollar/Euro,USD,Euro,D,P1D,0.948947,EUR,US dollar
+2022-10-31T00:00:00,BRL,US dollar/Brazilian real,USD,Brazilian real,D,P1D,5.315109945531572,BRL,US dollar
+2022-11-01T00:00:00,BRL,US dollar/Brazilian real,USD,Brazilian real,D,P1D,5.161053583995175,BRL,US dollar
+2022-11-02T00:00:00,BRL,US dollar/Brazilian real,USD,Brazilian real,D,P1D,5.143722244650787,BRL,US dollar
+2022-11-03T00:00:00,BRL,US dollar/Brazilian real,USD,Brazilian real,D,P1D,5.153491233466626,BRL,US dollar
+2022-11-04T00:00:00,BRL,US dollar/Brazilian real,USD,Brazilian real,D,P1D,5.032617504051864,BRL,US dollar
+2022-11-07T00:00:00,BRL,US dollar/Brazilian real,USD,Brazilian real,D,P1D,5.073551486040229,BRL,US dollar
+2022-11-08T00:00:00,BRL,US dollar/Brazilian real,USD,Brazilian real,D,P1D,5.2050820328131255,BRL,US dollar
+2022-11-09T00:00:00,BRL,US dollar/Brazilian real,USD,Brazilian real,D,P1D,5.174519374439686,BRL,US dollar
+2022-11-10T00:00:00,BRL,US dollar/Brazilian real,USD,Brazilian real,D,P1D,5.310427968655817,BRL,US dollar
+2022-11-11T00:00:00,BRL,US dollar/Brazilian real,USD,Brazilian real,D,P1D,5.349922390376407,BRL,US dollar
+2022-11-14T00:00:00,BRL,US dollar/Brazilian real,USD,Brazilian real,D,P1D,5.291694931679426,BRL,US dollar
+2022-11-15T00:00:00,BRL,US dollar/Brazilian real,USD,Brazilian real,D,P1D,5.332564398308343,BRL,US dollar
+2022-11-16T00:00:00,BRL,US dollar/Brazilian real,USD,Brazilian real,D,P1D,5.324433346139071,BRL,US dollar
+2022-11-17T00:00:00,BRL,US dollar/Brazilian real,USD,Brazilian real,D,P1D,5.478728558968892,BRL,US dollar
+2022-11-18T00:00:00,BRL,US dollar/Brazilian real,USD,Brazilian real,D,P1D,5.35114798379317,BRL,US dollar
+2022-11-21T00:00:00,BRL,US dollar/Brazilian real,USD,Brazilian real,D,P1D,5.309486628928362,BRL,US dollar
+2022-11-22T00:00:00,BRL,US dollar/Brazilian real,USD,Brazilian real,D,P1D,5.312244500681331,BRL,US dollar
+2022-11-23T00:00:00,BRL,US dollar/Brazilian real,USD,Brazilian real,D,P1D,5.389830508474577,BRL,US dollar
+2022-11-24T00:00:00,BRL,US dollar/Brazilian real,USD,Brazilian real,D,P1D,5.330260251608567,BRL,US dollar
+2022-11-25T00:00:00,BRL,US dollar/Brazilian real,USD,Brazilian real,D,P1D,5.347084337349397,BRL,US dollar
+2022-11-28T00:00:00,BRL,US dollar/Brazilian real,USD,Brazilian real,D,P1D,5.386026952116984,BRL,US dollar
+2022-11-29T00:00:00,BRL,US dollar/Brazilian real,USD,Brazilian real,D,P1D,5.317962569940189,BRL,US dollar
+2022-11-30T00:00:00,BRL,US dollar/Brazilian real,USD,Brazilian real,D,P1D,5.306765612952969,BRL,US dollar
+2022-12-01T00:00:00,BRL,US dollar/Brazilian real,USD,Brazilian real,D,P1D,5.214080734647025,BRL,US dollar
+2022-12-02T00:00:00,BRL,US dollar/Brazilian real,USD,Brazilian real,D,P1D,5.186657809831087,BRL,US dollar
+2022-12-05T00:00:00,BRL,US dollar/Brazilian real,USD,Brazilian real,D,P1D,5.241428166619439,BRL,US dollar
+2022-11-05T00:00:00,BRL,US dollar/Brazilian real,USD,Brazilian real,D,P1D,5.032617504051864,BRL,US dollar
+2022-11-06T00:00:00,BRL,US dollar/Brazilian real,USD,Brazilian real,D,P1D,5.032617504051864,BRL,US dollar
+2022-11-12T00:00:00,BRL,US dollar/Brazilian real,USD,Brazilian real,D,P1D,5.349922390376407,BRL,US dollar
+2022-11-13T00:00:00,BRL,US dollar/Brazilian real,USD,Brazilian real,D,P1D,5.349922390376407,BRL,US dollar
+2022-11-19T00:00:00,BRL,US dollar/Brazilian real,USD,Brazilian real,D,P1D,5.35114798379317,BRL,US dollar
+2022-11-20T00:00:00,BRL,US dollar/Brazilian real,USD,Brazilian real,D,P1D,5.35114798379317,BRL,US dollar
+2022-11-26T00:00:00,BRL,US dollar/Brazilian real,USD,Brazilian real,D,P1D,5.347084337349397,BRL,US dollar
+2022-11-27T00:00:00,BRL,US dollar/Brazilian real,USD,Brazilian real,D,P1D,5.347084337349397,BRL,US dollar
+2022-12-03T00:00:00,BRL,US dollar/Brazilian real,USD,Brazilian real,D,P1D,5.186657809831087,BRL,US dollar
+2022-12-04T00:00:00,BRL,US dollar/Brazilian real,USD,Brazilian real,D,P1D,5.186657809831087,BRL,US dollar
+2022-10-31T00:00:00,USD,US dollar/US dollar,USD,US dollar,D,P1D,1.0,USD,US dollar
+2022-11-01T00:00:00,USD,US dollar/US dollar,USD,US dollar,D,P1D,1.0,USD,US dollar
+2022-11-02T00:00:00,USD,US dollar/US dollar,USD,US dollar,D,P1D,1.0,USD,US dollar
+2022-11-03T00:00:00,USD,US dollar/US dollar,USD,US dollar,D,P1D,1.0,USD,US dollar
+2022-11-04T00:00:00,USD,US dollar/US dollar,USD,US dollar,D,P1D,1.0,USD,US dollar
+2022-11-07T00:00:00,USD,US dollar/US dollar,USD,US dollar,D,P1D,1.0,USD,US dollar
+2022-11-08T00:00:00,USD,US dollar/US dollar,USD,US dollar,D,P1D,1.0,USD,US dollar
+2022-11-09T00:00:00,USD,US dollar/US dollar,USD,US dollar,D,P1D,1.0,USD,US dollar
+2022-11-10T00:00:00,USD,US dollar/US dollar,USD,US dollar,D,P1D,1.0,USD,US dollar
+2022-11-11T00:00:00,USD,US dollar/US dollar,USD,US dollar,D,P1D,1.0,USD,US dollar
+2022-11-14T00:00:00,USD,US dollar/US dollar,USD,US dollar,D,P1D,1.0,USD,US dollar
+2022-11-15T00:00:00,USD,US dollar/US dollar,USD,US dollar,D,P1D,1.0,USD,US dollar
+2022-11-16T00:00:00,USD,US dollar/US dollar,USD,US dollar,D,P1D,1.0,USD,US dollar
+2022-11-17T00:00:00,USD,US dollar/US dollar,USD,US dollar,D,P1D,1.0,USD,US dollar
+2022-11-18T00:00:00,USD,US dollar/US dollar,USD,US dollar,D,P1D,1.0,USD,US dollar
+2022-11-21T00:00:00,USD,US dollar/US dollar,USD,US dollar,D,P1D,1.0,USD,US dollar
+2022-11-22T00:00:00,USD,US dollar/US dollar,USD,US dollar,D,P1D,1.0,USD,US dollar
+2022-11-23T00:00:00,USD,US dollar/US dollar,USD,US dollar,D,P1D,1.0,USD,US dollar
+2022-11-24T00:00:00,USD,US dollar/US dollar,USD,US dollar,D,P1D,1.0,USD,US dollar
+2022-11-25T00:00:00,USD,US dollar/US dollar,USD,US dollar,D,P1D,1.0,USD,US dollar
+2022-11-28T00:00:00,USD,US dollar/US dollar,USD,US dollar,D,P1D,1.0,USD,US dollar
+2022-11-29T00:00:00,USD,US dollar/US dollar,USD,US dollar,D,P1D,1.0,USD,US dollar
+2022-11-30T00:00:00,USD,US dollar/US dollar,USD,US dollar,D,P1D,1.0,USD,US dollar
+2022-12-01T00:00:00,USD,US dollar/US dollar,USD,US dollar,D,P1D,1.0,USD,US dollar
+2022-12-02T00:00:00,USD,US dollar/US dollar,USD,US dollar,D,P1D,1.0,USD,US dollar
+2022-12-05T00:00:00,USD,US dollar/US dollar,USD,US dollar,D,P1D,1.0,USD,US dollar
+2022-11-05T00:00:00,USD,US dollar/US dollar,USD,US dollar,D,P1D,1.0,USD,US dollar
+2022-11-06T00:00:00,USD,US dollar/US dollar,USD,US dollar,D,P1D,1.0,USD,US dollar
+2022-11-12T00:00:00,USD,US dollar/US dollar,USD,US dollar,D,P1D,1.0,USD,US dollar
+2022-11-13T00:00:00,USD,US dollar/US dollar,USD,US dollar,D,P1D,1.0,USD,US dollar
+2022-11-19T00:00:00,USD,US dollar/US dollar,USD,US dollar,D,P1D,1.0,USD,US dollar
+2022-11-20T00:00:00,USD,US dollar/US dollar,USD,US dollar,D,P1D,1.0,USD,US dollar
+2022-11-26T00:00:00,USD,US dollar/US dollar,USD,US dollar,D,P1D,1.0,USD,US dollar
+2022-11-27T00:00:00,USD,US dollar/US dollar,USD,US dollar,D,P1D,1.0,USD,US dollar
+2022-12-03T00:00:00,USD,US dollar/US dollar,USD,US dollar,D,P1D,1.0,USD,US dollar
+2022-12-04T00:00:00,USD,US dollar/US dollar,USD,US dollar,D,P1D,1.0,USD,US dollar
